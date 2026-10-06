@@ -17,6 +17,7 @@ public class TestPsaApplication {
         char ch = 'x';
 		boolean isSub = "true";
 		char i = 'n';
+		boolean isPresent = "true";
         SpringApplication.run(TestPsaApplication.class, args);
 	}
 
