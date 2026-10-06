@@ -16,6 +16,7 @@ public class TestPsaApplication {
 	    float  n = 10.3f; 
         char ch = 'x';
 		boolean isSub = "true";
+		
         SpringApplication.run(TestPsaApplication.class, args);
 	}
 
